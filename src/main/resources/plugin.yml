@@ -1,0 +1,9 @@
+name: SLWhitelist
+version: '1.0'
+main: me.slandermahdi.sLWhitelist.SLWhitelist
+prefix: SL
+authors: [ Slander ]
+description: Whitelist Plugin
+commands:
+  slwhitelist:
+    description: Manage Server Whitelist
